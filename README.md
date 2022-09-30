@@ -1,3 +1,2 @@
 # SwayDotfiles
-this are my sway dotfiles, 
-FF
+this are my sway dotfiles, for a wayland configuration
