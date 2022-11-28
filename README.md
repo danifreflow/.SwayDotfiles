@@ -15,11 +15,21 @@ this are my sway dotfiles, for a wayland configuration if you are interested in 
 
 ## How to setup your computer like this
 
-* First step is to install a linux distribution with all the thing that im using wich are
-    * **mako**
-    * **alacritty**
-   * **nvim**:my togo text editor , im using Nvchad wich is my favorite lua modification
-   * **sway**:this is my favorite tiling manager for wayland compository
-   * **swaylock**:this is used as a screensaver
-   * **waybar**:this is used as a toolbar
-   * **wofi**
+* First step : install a linux distribution with all the thing that im using wich are
+    * **mako** : for notification
+   * **alacritty** : my favorite terminal emulator
+   * **nvim** :my togo text editor , im using Nvchad wich is my favorite lua modification
+   * **sway** :this is my favorite tiling manager for wayland compository
+   * **swaylock** :this is used as a screensaver
+   * **waybar** :this is used as a toolbar
+   * **wofi** : best app launcher 
+
+* Second step : go in your terminal to the config file
+>NOTE: **USERNAME** must be change to your username
+```sh
+cd /home/USERNAME/.config
+```
+for example in my case:
+```sh
+cd /home/freflow/.config
+```
