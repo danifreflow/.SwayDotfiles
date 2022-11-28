@@ -37,17 +37,19 @@ cd /home/freflow/.config
 ```sh
 git clone https://github.com/danifreflow/SwayDotfiles.git
 ```
-* Four step : **have fun** and mv the files to the .config
+* Four step :  mv the files to the .config and then rm the readmi and the image folder
 ```sh
 mv alacritty/ mako/ neofetch/ nvim/ sway/ swaylock/ waybar/ wofi/ ..
 ```
-then rm the readmi and the image folder
 ```sh
 rm -rf READMI.md
 ```
 ```sh
 rm -rf imagenes
 ```
-
+**HAVE FUN**
 
 ## images
+
+![wallpaper](https://tleapps.com/wp-content/uploads/2021/12/covid_icon_001.png)
+![pipes](https://tleapps.com/wp-content/uploads/2021/12/covid_icon_001.png)
