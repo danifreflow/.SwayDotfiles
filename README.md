@@ -15,7 +15,7 @@ this are my sway dotfiles, for a wayland configuration if you are interested in 
 
 ## How to setup your computer like this
 
-- First step is to install a linux distribution with all the thing that im using wich are
+-First step is to install a linux distribution with all the thing that im using wich are
 * **mako**
 * **alacritty**
 * **nvim**:my togo text editor , im using Nvchad wich is my favorite lua modification
