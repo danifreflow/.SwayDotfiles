@@ -12,6 +12,7 @@ this are my sway dotfiles, for a wayland configuration if you are interested in 
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 ## How to setup your computer like this
 -First step is to install a linux distribution with all the thing that im using wich are
 -**mako**
