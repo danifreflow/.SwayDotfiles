@@ -33,3 +33,21 @@ for example in my case:
 ```sh
 cd /home/freflow/.config
 ```
+* Third step : use the next comand to clone the repository
+```sh
+git clone https://github.com/danifreflow/SwayDotfiles.git
+```
+* Four step : **have fun** and mv the files to the .config
+```sh
+mv alacritty/ mako/ neofetch/ nvim/ sway/ swaylock/ waybar/ wofi/ ..
+```
+then rm the readmi and the image folder
+```sh
+rm -rf READMI.md
+```
+```sh
+rm -rf imagenes
+```
+
+
+## images
