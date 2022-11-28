@@ -51,5 +51,5 @@ rm -rf imagenes
 
 ## images
 
-![wallpaper](https://tleapps.com/wp-content/uploads/2021/12/covid_icon_001.png)
-![pipes](https://tleapps.com/wp-content/uploads/2021/12/covid_icon_001.png)
+![nvim](https://github.com/danifreflow/SwayDotfiles/blob/main/imagenes/nvim.png)
+![pipes](https://github.com/danifreflow/SwayDotfiles/blob/main/imagenes/pipes.png)
