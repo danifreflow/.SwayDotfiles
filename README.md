@@ -18,7 +18,7 @@ this are my sway dotfiles, for a wayland configuration if you are interested in 
 * First step : install a linux distribution with all the thing that im using wich are
     * **mako** : for notification
    * **alacritty** : my favorite terminal emulator
-   * **nvim** :my togo text editor , im using Nvchad wich is my favorite lua modification
+   * **nvim** :my togo text editor ,  Im using a personal lua config .
    * **sway** :this is my favorite tiling manager for wayland compository
    * **swaylock** :this is used as a screensaver
    * **waybar** :this is used as a toolbar
